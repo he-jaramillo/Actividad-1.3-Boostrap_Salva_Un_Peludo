@@ -1,0 +1,42 @@
+*{
+  font-family: Arial;
+  Margin: auto;
+  padding: auto;
+}
+
+.imagenAlto{
+  height: 700px;
+}
+
+.imagenCard{
+  height: 150px;
+}
+
+a{
+    color:orangered !important;
+}
+
+.btn-primary{
+  color: white !important
+}
+
+.contenedorSep{
+  height: 30px;
+  width: 100%;
+  float: center; 
+}
+
+.infoPet{
+  color: white;
+  font-size: large;
+}
+.adopta{
+  color: yellow !important;
+  font-size: xx-large;
+}
+
+.subTitulo{
+  color: white;
+  font-size: xx-large;
+  text-align: center;
+}
